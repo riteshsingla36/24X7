@@ -51,7 +51,7 @@ const HomepageCarousel = () => {
           </LinkContainer>
           <p>
             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p> 
+          </p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
